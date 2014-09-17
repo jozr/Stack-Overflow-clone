@@ -36,5 +36,9 @@ $ rails s
 ```
 Now, it will be available at `http://localhost:3000`.
 
+##Authors
+Josie Wright
+[Sean Niesen](http://www.github.com/seann1/)
+
 ##License
 MIT
