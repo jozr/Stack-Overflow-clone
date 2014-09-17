@@ -1,5 +1,5 @@
 #Stack Overflow Clone
-Replicates functional structures from [Stack Overflow](http://www.stackoverflow.com/)
+This clone replicates the foundational structures of [Stack Overflow](http://www.stackoverflow.com/).
 
 ##Tools
 Ruby 2.1.2<br />
